@@ -1,4 +1,4 @@
-<h1 align="center">Data Structure Exercises</h1>
+<h1 align="center">Data Structure 1</h1>
 
 <p align="center">Repository for solved exercises on Queues, Stacks and Lists in Data Structures with C Language.</p>
 
